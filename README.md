@@ -1,1 +1,0 @@
-# Vision-Based-Fire-Detection-with-Automated-Water-Sprinkler-Activation
